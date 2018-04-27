@@ -28,6 +28,7 @@ This repo will start out as a list of resources to learn about Ethereum Smart Co
 * [Ethereum Security Tools Suite](https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/) - Trail of bits
 * [Mythril](https://github.com/ConsenSys/mythril) - ConsenSys
 * [Porosity](https://github.com/comaeio/porosity) - comaeio
+* [Open Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - Zeppelin
 
 #### Code issues
 * [A brief history of Smart Contract security](https://www.youtube.com/watch?v=8LAThtT7euA) - Trail of Bits
