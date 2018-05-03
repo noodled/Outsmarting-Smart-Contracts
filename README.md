@@ -52,3 +52,6 @@ This repo will start out as a list of resources to learn about Ethereum Smart Co
 * [Automated Bug Finding on the Blockchain](https://www.youtube.com/watch?v=8nuKOWGGtMc) - Trail of Bits
 * [Haxcellent Adventures - Exploring Ethereum Smart Contracts](https://youtu.be/d93mvoOQd8U) - sneakerhax
 * [Haxcellent Adventures - Reversing Ethereum Smart Contracts with Ethersplay](https://youtu.be/2hfz8cbl-II) - sneakerhax
+
+#### Fuzzing Smart Contracts
+* [State Machine Testing with Echidna](https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/) - Trail of Bits
