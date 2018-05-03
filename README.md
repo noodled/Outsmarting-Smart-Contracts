@@ -39,6 +39,7 @@ This repo will start out as a list of resources to learn about Ethereum Smart Co
 * [Smashing Smart Contracts for fun and real profit](https://hackernoon.com/hitb2018ams-smashing-smart-contracts-for-fun-and-real-profit-720f5e3ac777) - Bernhard Mueller
   * [Video - HITB2018AMS](https://www.youtube.com/watch?v=iqf6epACgds)
 * [New batchOverflow Bug in Multiple ERC20 Smart Contracts (CVE-2018–10299)](https://medium.com/@peckshield/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536) - PeckShield
+* [Detecting batchOverflow (and Similar Flaws) in Ethereum Smart Contracts](https://media.consensys.net/detecting-batchoverflow-and-similar-flaws-in-ethereum-smart-contracts-93cf5a5aaac8) - Bernhard Mueller
 
 #### Secure Coding
 * [Ethereum Contract Security Techniques and Tips](https://github.com/ethereum/wiki/wiki/Safety)
