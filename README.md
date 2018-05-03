@@ -49,9 +49,9 @@ This repo will start out as a list of resources to learn about Ethereum Smart Co
 #### RE Smart Contracts
 * [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/) - Brandon Arvanaghi
 * [Reversing Ethereum Smart Contracts Part 2](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts-pt2/) - Brandon Arvanaghi
-* [Automated Bug Finding on the Blockchain](https://www.youtube.com/watch?v=8nuKOWGGtMc) - Trail of Bits
 * [Haxcellent Adventures - Exploring Ethereum Smart Contracts](https://youtu.be/d93mvoOQd8U) - sneakerhax
 * [Haxcellent Adventures - Reversing Ethereum Smart Contracts with Ethersplay](https://youtu.be/2hfz8cbl-II) - sneakerhax
 
 #### Fuzzing Smart Contracts
+* [Automated Bug Finding on the Blockchain](https://www.youtube.com/watch?v=8nuKOWGGtMc) - Trail of Bits
 * [State Machine Testing with Echidna](https://blog.trailofbits.com/2018/05/03/state-machine-testing-with-echidna/) - Trail of Bits
